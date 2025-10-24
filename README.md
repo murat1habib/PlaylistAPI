@@ -2,12 +2,9 @@
 
 ## DELIVERABLES
 
-- **Link to your GitHub code**
   - This repository includes:
     - A link to the project source code (see below)
     - Notes about design, assumptions, and issues encountered
-
-- **Link to your live website**
 
 | Deliverable | Link |
 |--------------|------|
